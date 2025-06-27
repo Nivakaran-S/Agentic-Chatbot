@@ -72,7 +72,7 @@ langgraph dev
 
 You can modify the file ./src/graphs/graph_builder.py to select which graph to explore.
 
-##🌟 Run the App
+## 🌟 Run the App
 
 After setting up the environment, launch the app using:
 
