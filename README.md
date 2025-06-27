@@ -14,7 +14,6 @@ This project is a Streamlit-based Agentic AI application that includes multiple 
 * Streamlit
 * LangGraph
 * LangChain
-* uv (Optional but recommended for managing dependencies)
 
 ## 📁 Project Structure
 
