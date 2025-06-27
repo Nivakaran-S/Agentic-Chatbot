@@ -18,6 +18,7 @@ This project is a Streamlit-based Agentic AI application that includes multiple 
 
 ## 📁 Project Structure
 
+```
 .
 ├── app.py                         # Streamlit application
 ├── requirements.txt              # All required Python packages
@@ -29,6 +30,7 @@ This project is a Streamlit-based Agentic AI application that includes multiple 
     ├── basic_chatbot_graph.png
     ├── travily_tool_graph.png
     └── ai_news_graph.png
+```
 
 ## 🚀 Getting Started
 
