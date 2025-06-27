@@ -76,7 +76,9 @@ You can modify the file ./src/graphs/graph_builder.py to select which graph to e
 
 After setting up the environment, launch the app using:
 
+```bash
 python app.py
+```
 
 ## 📈 Graph Visuals
 
